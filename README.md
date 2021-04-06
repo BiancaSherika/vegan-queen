@@ -2,13 +2,11 @@
 
 Acesse a aplicação aqui: https://vegan-queen-rouge.vercel.app/
 
-Contas para teste:
-Salão: 
-email - salao@teste.com
-senha - 123456
-Cozinha:
-email - cozinha@teste.com
-senha - 123456
+Contas para teste:</br>
+Salão: </br>
+email - salao@teste.com   |   senha - 123456 </br>
+Cozinha: </br>
+email - cozinha@teste.com   |   senha - 123456
 
 
 ## Índice
