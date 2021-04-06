@@ -1,5 +1,7 @@
 # Vegan Queen :hamburger:
 
+Acesse a aplicação aqui: https://vegan-queen-rouge.vercel.app/
+
 ## Índice
 
 - [Apresentação](#apresentação)
