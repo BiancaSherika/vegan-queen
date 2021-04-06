@@ -2,6 +2,15 @@
 
 Acesse a aplicação aqui: https://vegan-queen-rouge.vercel.app/
 
+Contas para teste:
+Salão: 
+email - salao@teste.com
+senha - 123456
+Cozinha:
+email - cozinha@teste.com
+senha - 123456
+
+
 ## Índice
 
 - [Apresentação](#apresentação)
@@ -58,7 +67,7 @@ Os protótipos da página foram realizados através do MarvelApp, segue imagens 
 Após feito os protótipos, realizamos testes com potenciais usuários e recebemos os seguintes feedbacks e as respectivas resoluções que realizamos:
 
 :heavy_exclamation_mark: Barra de rolagem não acessível pelo desktop </br>
-:heavy_check_mark: Definir produto será usado somente via tablet onde a rolagem será via touch
+:heavy_check_mark: Definir produto será usado somente via tablet em posição horizontal onde a rolagem será via touch
 
 :heavy_exclamation_mark: Botoẽs de navegação do salão muito pequenos e amontuados </br>
 :heavy_check_mark: Definir usabilidade do produto em modo horizontal
@@ -127,8 +136,9 @@ O logo foi criado pelo Canva, seguindo a paleta de cores e a temática realeza.
 
 A interface da aplicação finalizou da seguinte maneira:
 
-![](./src/img/Readme/interface.png)
 ![](./src/img/Readme/interfacelogin.png)
+![](./src/img/Readme/interfacesalão.png)
+![](.src/img/Readme/interfacecozinha.png)
 
 ## Planejamento
 
