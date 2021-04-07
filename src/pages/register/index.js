@@ -45,7 +45,7 @@ const Register = () => {
       <OutHeader message={"Crie sua conta"} />
       <form className="Register">
         <div className="Group">
-          <p>Nome Completo<span className='required'> *</span></p>
+          <p>Nome<span className='required'> *</span></p>
           <input name="name" className="Field" placeholder="ex: Fulano de Tal" value={name} onChange={(e) => setName(e.target.value)} />
           <div className="Group">
             <p>Email<span className='required'> *</span></p>
