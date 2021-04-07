@@ -38,22 +38,19 @@ body {
 }
 
 .Logo {
-
   width: 28%;
   margin-top: 2rem;
 }
 
 .LogoOrder {
   width: 25%;
-  margin-top: -6rem;
-  margin-right: 2rem;
+  margin-top: -5rem;
   text-align: left;
 }
 
 .divNavbar {
   display: flex;
-  margin: 3rem;
-  margin-top: 0.1rem;
+  align: center;
 }
 
 .footerP {
@@ -167,7 +164,7 @@ figcaption {
 
 .TextsProf {
   margin-left: 1rem;
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   display: flex;
   font-family: 'Roboto Slab', serif;
   text-align: center;
@@ -190,7 +187,7 @@ figcaption {
 .btnLogout {
   width: 7%;
   height: 9%;
-
+  margin-top: 1rem;
   border: none;
   background: #dbd7d2;
   cursor: pointer;
@@ -205,7 +202,6 @@ figcaption {
 .btnHome {
   width: 7%;
   height: 9%;
-  margin-top: 2%;
   margin-left: 30px;
   background: #dbd7d2;
   cursor: pointer;
@@ -213,7 +209,7 @@ figcaption {
   border: solid #000;
   border-radius: 20px;
   align-items: center;
-  margin-top: -5rem;
+  margin-top: -4rem;
   margin-bottom: auto;
   text-align: right;
 }
@@ -225,7 +221,7 @@ figcaption {
 
 .Order {
   text-align: center;
-  margin-top: -3rem;
+  margin-top: -2rem;
   display: flex;
   margin-left: 10rem;
   margin-right: 10rem;
@@ -278,7 +274,6 @@ figcaption {
   max-width: 40%;
 	background-color: #f4ca16;
 }
-
 
 .Command {
   background-color: #96cf4a;

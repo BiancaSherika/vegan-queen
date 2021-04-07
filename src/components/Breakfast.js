@@ -78,6 +78,7 @@ const Breakfast = () => {
             <Loading />
           ) : (
             <div>
+              <p className="Texts">Adicione os itens pedidos e confira a comanda no fim da tela</p>
               {menu &&
                 menu.map(function (item) {
                   return (
@@ -95,18 +96,9 @@ const Breakfast = () => {
             </div>
           )}
       </div>
-   
+
     </>
   );
 }
 
 export default Breakfast;
-
-
-
-
-
-
-
-
-

@@ -90,7 +90,7 @@ const Burger = () => {
     <>
       <InnerHeader />
       <Link to="/hall">
-        <img className="btnHome" alt="botão para salão" src={home} type="submit" onClick={(() => "/hall")}/>
+        <img className="btnHome" alt="botão para salão" src={home} type="submit" onClick={(() => "/hall")} />
       </Link>
       <div>
         {loading ?
@@ -98,6 +98,7 @@ const Burger = () => {
             <Loading />
           ) : (
             <div>
+              <p className="Texts">Adicione os itens pedidos e confira a comanda no fim da tela</p>
               {menuBurger &&
                 menuBurger.map(function (item) {
                   return (

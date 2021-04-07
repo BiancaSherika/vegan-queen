@@ -21,9 +21,7 @@ const InnerHeader = () => {
       <div className='divNavbar'>
         <img className="LogoOrder" alt="logotipo Vegan Queen" src={LogoVector} />
         <form className="Order">
-          <div className="Professional">
-            <p className="TextsProf">Olá, {professional}</p>
-          </div>
+          <p className="TextsProf">Olá, {professional}</p>
         </form>
       </div>
       <div className="modalC">
