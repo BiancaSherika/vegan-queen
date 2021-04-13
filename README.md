@@ -1,5 +1,9 @@
 # Vegan Queen :hamburger:
 
+<p align="center">
+  <img src="./src/img/LogoVector.png" />
+</p>
+
 ## Índice
 
 - [Apresentação](#apresentação)
@@ -131,8 +135,6 @@ Sendo amarelo do pão, roxo de beterraba, verde das verduras, cinza esbranquiça
 ### Logotipo
 
 O logo foi criado pelo Canva, seguindo a paleta de cores e a temática realeza.
-
-![](./src/img/LogoVector.png)
 
 ### Interface
 
