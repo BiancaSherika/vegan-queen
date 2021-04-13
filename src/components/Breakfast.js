@@ -28,10 +28,12 @@ const Breakfast = () => {
           .map(item => {
             if (item.name === "Café com leite") {
               item.name = "Café com leite vegetal"
-            } else if (item.name === "Misto quente") {
-              item.name = "Sanduiche natural"
             } else if (item.name === "Café americano") {
               item.name = "Café puro"
+            } else if (item.name === "Misto quente") {
+              item.name = "Sanduiche natural"
+            } else if (item.name === "Suco de fruta natural") {
+              item.name = "Suco natural"
             }
             return item
           })
