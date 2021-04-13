@@ -154,12 +154,6 @@ A interface da aplicação finalizou da seguinte maneira:
 <p align="center">
   <img src="./src/img/Readme/interfacelogin.png"/>
 </p>
-<p align="center">
-  <img src="./src/img/Readme/interfacesalão.png"/>
-</p>
-<p align="center">
-  <img src="./src/img/Readme/interfacecozinha.png"/>
-</p>
 
 ## Planejamento
 
