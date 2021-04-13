@@ -1,17 +1,9 @@
 # Vegan Queen :hamburger:
 
-Acesse a aplicação aqui: https://vegan-queen-rouge.vercel.app/
-
-Contas para teste:</br>
-Salão: </br>
-email - salao@teste.com   |   senha - 123456 </br>
-Cozinha: </br>
-email - cozinha@teste.com   |   senha - 123456
-
-
 ## Índice
 
 - [Apresentação](#apresentação)
+- [Acesso](#acesso)
 - [Temática](#temática)
 - [Protótipos](#protótipos)
 - [Testes](#testes)
@@ -32,6 +24,18 @@ email - cozinha@teste.com   |   senha - 123456
 *Vegan Queen* é uma aplicação web desenvolvida sob demanda do cliente fictício Restaurande Vegan Queen, seu objetivo é automatizar o sistema interno do restaurante e melhorar os procedimentos de solicitação de pedido, envio para preparo e entrega ao cliente final. Ele se dá no formato de cardápio e comanda digital, acompanhamento do preparo e entrega de cada solicitação e histórico de todos pedidos entregues ao cliente final. Este projeto foi desenvolvido durante o bootcamp da [Laboratória](https://www.laboratoria.la/br), com finalidade de aprendizagem e enriquecimento dos conhecimentos das alunas.
 
 ![](./src/img/Readme/burger.gif)
+
+## Acesso 
+
+Teste você mesmo ! 
+https://vegan-queen-rouge.vercel.app/
+
+Contas para teste:</br>
+- Salão: </br>
+email - salao@teste.com   |   senha - 123456 </br>
+- Cozinha: </br>
+email - cozinha@teste.com   |   senha - 123456
+
 
 ## Temática
 
