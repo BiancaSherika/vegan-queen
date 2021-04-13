@@ -27,7 +27,9 @@
 
 *Vegan Queen* é uma aplicação web desenvolvida sob demanda do cliente fictício Restaurande Vegan Queen, seu objetivo é automatizar o sistema interno do restaurante e melhorar os procedimentos de solicitação de pedido, envio para preparo e entrega ao cliente final. Ele se dá no formato de cardápio e comanda digital, acompanhamento do preparo e entrega de cada solicitação e histórico de todos pedidos entregues ao cliente final. Este projeto foi desenvolvido durante o bootcamp da [Laboratória](https://www.laboratoria.la/br), com finalidade de aprendizagem e enriquecimento dos conhecimentos das alunas.
 
-![](./src/img/Readme/burger.gif)
+<p align="center">
+  <img src="./src/img/Readme/burger.gif"/>
+</p>
 
 ## Acesso 
 
@@ -53,18 +55,26 @@ A temática escolhida para definição do cliente foi de restaurante vegano, cuj
 
 Desta forma, ambas desenvolvedoras tem afinidade com o modo de vida vegano e escolhemos este tema para nosso cliente, alnhando nossa prestação de serviços aos valores do contratante.
 
-![](./src/img/Readme/gifvegan.gif)
+<p align="center">
+  <img src="./src/img/Readme/gifvegan.gif"/>
+</p>
 
 ## Protótipos
 
 Os protótipos da página foram realizados através do MarvelApp, segue imagens e links para testes:
 
-![](./src/img/Readme/prototipologin.png)
-![](./src/img/Readme/prototiporegistro.png)
+<p align="center">
+  <img src="./src/img/Readme/prototipologin.png"/>
+</p>
+<p align="center">
+  <img src="./src/img/Readme/prototiporegistro.png"/>
+</p>
 
 [Teste aqui](https://marvelapp.com/prototype/fg13c84/screen/76693657)
 
-![](./src/img/Readme/prototipohall.png)
+<p align="center">
+  <img src="./src/img/Readme/prototipohall.png"/>
+</p>
 
 [Teste aqui](https://marvelapp.com/prototype/fg13c84/screen/76905175)
 
@@ -128,7 +138,9 @@ O layout da aplicação foi pensado da seguinte forma:
 
 A paleta de cores foi decidica baseando-se nos alimentos que o restaurante serve, ilustração feita pela ferramenta Coolors:
 
-![](./src/img/Readme/paleta.png)
+<p align="center">
+  <img src="./src/img/Readme/paleta.png"/>
+</p>
 
 Sendo amarelo do pão, roxo de beterraba, verde das verduras, cinza esbranquiçado dos cogumelos shimeji e paris e preto do gergelim
 
@@ -139,22 +151,31 @@ O logo foi criado pelo Canva, seguindo a paleta de cores e a temática realeza.
 ### Interface
 
 A interface da aplicação finalizou da seguinte maneira:
-
-![](./src/img/Readme/interfacelogin.png)
-![](./src/img/Readme/interfacesalão.png)
-![](.src/img/Readme/interfacecozinha.png)
+<p align="center">
+  <img src="./src/img/Readme/interfacelogin.png"/>
+</p>
+<p align="center">
+  <img src="./src/img/Readme/interfacesalão.png"/>
+</p>
+<p align="center">
+  <img src="./src/img/Readme/interfacecozinha.png"/>
+</p>
 
 ## Planejamento
 
 O planejamento foi realizado através do Trello, seguindo o período de 4 sprints, onde cada história de usuário se deu em 1 sprint.
 
-![](./src/img/Readme/trello.png)
+<p align="center">
+  <img src="./src/img/Readme/trello.png"/>
+</p>
 
 ## Desenvolvimento
 
 Para desenvolvimento deste projeto foi utilizado HTML5, CSS3, Vanilla JavaScript, React, Vercel e a API Burger Queen fornecida por Swagger, acessivel [clicando aqui](https://lab-api-bq.herokuapp.com/api-docs/#/). A aplicação foi realizada com conceito de tablet first e Single Page Application (SPA).
 
-![](./src/img/Readme/prog.gif)
+<p align="center">
+  <img src="./src/img/Readme/prog.gif"/>
+</p>
 
 ## Pontos de melhoria
 
